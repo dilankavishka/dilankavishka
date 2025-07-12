@@ -3,7 +3,7 @@
 
 - Associate Software Engineer 🙂
 - Software Engineering Undergraduate at University of Westminster
-- Good swimmer 🏊‍♂️
+- Swimmer 🏊‍♂️
 - Loves music 🎶🎧
 
 ### Languages and Tools
