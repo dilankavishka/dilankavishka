@@ -7,7 +7,7 @@
 - Loves music 🎶🎧
 
 ### Languages and Tools
-<p align="left">
+<p align="center">
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
   </a>
